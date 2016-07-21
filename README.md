@@ -1,3 +1,6 @@
+# rdm
+
+Redmine command line client.
 
 # Install
 
