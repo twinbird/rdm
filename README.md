@@ -8,26 +8,26 @@ $ go get github.com/twinbird/rdm
 
 # Usage
 
-```sh
-$ rdm
-```
-
 Listing all project list.
 
 ```sh
-$ rdm -i [project id]
+$ rdm
 ```
 
 Listing all issues in project list.
 
 ```sh
-$ rdm -E [filepath]
+$ rdm -i [project id]
 ```
 
 Output all project list to MS Excel Format.
 
 ```sh
-$ rdm -i [project id] -E [filepath]
+$ rdm -E [filepath]
 ```
 
 Output all issues to MS Excel Format in project.
+
+```sh
+$ rdm -i [project id] -E [filepath]
+```
