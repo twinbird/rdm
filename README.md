@@ -2,6 +2,7 @@
 # Install
 
 $ go get golang.org/x/text/encoding/japanese
+$ go get github.com/twinbird/rdm
 
 # Usage
 
