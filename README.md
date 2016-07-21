@@ -12,7 +12,7 @@ $ rdm
 Listing all project list.
 
 ```sh
-$ rdm [project id]
+$ rdm -i [project id]
 ```
 
 Listing all issues in project list.
@@ -24,7 +24,7 @@ $ rdm -E [filepath]
 Output all project list to MS Excel Format.
 
 ```sh
-$ rdm [project id] -E [filepath]
+$ rdm -i [project id] -E [filepath]
 ```
 
 Output all issues to MS Excel Format in project.
